@@ -6,8 +6,11 @@ Source your AWS credentials
 
 **CMDS**
 
-`terraform init`
+- `terraform init`
 
-`terraform plan`
+- `terraform plan`
 
-`terraform apply`
+- `terraform apply`
+
+   **Include environment variables in apply command**
+   `terraform apply -var foo=bar -var foo=baz`
