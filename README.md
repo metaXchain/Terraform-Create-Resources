@@ -12,5 +12,6 @@ Source your AWS credentials
 
 - `terraform apply`
 
-   **Include environment variables in apply command**
+   Terraform CLI allows you to include environment variables in apply command:
+   
    `terraform apply -var foo=bar -var foo=baz`
