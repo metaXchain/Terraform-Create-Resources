@@ -6,11 +6,11 @@ Source your AWS credentials
 
 **CMDS**
 
-- `terraform init`
+`terraform init`
 
-- `terraform plan`
+`terraform plan`
 
-- `terraform apply`
+`terraform apply`
 
    Terraform CLI allows you to include environment variables in apply command:
    
