@@ -15,3 +15,4 @@ Source your AWS credentials
    Terraform CLI allows you to include environment variables in apply command:
    
    `terraform apply -var foo=bar -var foo=baz`
+[Fargate Example Code from github.com/Oxalide](https://github.com/Oxalide/terraform-fargate-example)
